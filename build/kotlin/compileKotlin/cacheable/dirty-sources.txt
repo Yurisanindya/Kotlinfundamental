@@ -1,0 +1,7 @@
+D:\YurisAnindyaK\src\main\kotlin\Boolean.kt
+D:\YurisAnindyaK\src\main\kotlin\Function.kt
+D:\YurisAnindyaK\src\main\kotlin\String.kt
+D:\YurisAnindyaK\src\main\kotlin\Char.kt
+D:\YurisAnindyaK\src\main\kotlin\Array.kt
+D:\YurisAnindyaK\src\main\kotlin\Number.kt
+D:\YurisAnindyaK\src\main\kotlin\Main.kt
